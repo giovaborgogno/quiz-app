@@ -1,0 +1,292 @@
+[
+    {
+        "question": "¿Qué representa la curva de la Frontera de Posibilidades de Producción (FPP)?",
+        "options": [
+            "La relación entre la inflación y el desempleo",
+            "El nivel óptimo de producción dado el uso eficiente de los recursos",
+            "La cantidad mínima de recursos necesarios para un mercado competitivo",
+            "La asignación de recursos que minimiza el costo total de producción"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es una de las características del principio de escasez en economía?",
+        "options": [
+            "Los recursos son limitados y las necesidades son infinitas",
+            "Los precios tienden a disminuir a medida que los recursos se agotan",
+            "Las necesidades humanas son finitas y los recursos ilimitados",
+            "El crecimiento económico elimina la escasez de recursos"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "En el contexto de la teoría de la producción, ¿qué es el costo marginal?",
+        "options": [
+            "El costo total dividido por el número de unidades producidas",
+            "El costo adicional de producir una unidad más de un bien",
+            "El costo de oportunidad de producir con tecnología avanzada",
+            "El costo de reducir la producción de un bien para aumentar otro"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "En la microeconomía, ¿qué es la elasticidad precio de la demanda?",
+        "options": [
+            "Una medida de la respuesta de la demanda ante cambios en los ingresos",
+            "La respuesta porcentual de la cantidad demandada ante un cambio en el precio",
+            "El cambio en los precios debido a variaciones en el costo de producción",
+            "La capacidad de los productores de ajustar los precios en mercados competitivos"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué es un mercado de competencia perfecta?",
+        "options": [
+            "Un mercado donde las empresas fijan los precios de manera conjunta",
+            "Un mercado donde hay libre entrada y salida, y los precios son tomados por las empresas",
+            "Un mercado donde las empresas son monopolistas en sus respectivos sectores",
+            "Un mercado donde el Estado regula todos los precios y la producción"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el principal objetivo de la discriminación de precios en un monopolio?",
+        "options": [
+            "Maximizar la cantidad producida para reducir costos",
+            "Incrementar la cuota de mercado a través de precios bajos",
+            "Cobrar diferentes precios a distintos consumidores para maximizar el beneficio",
+            "Regular el mercado mediante el control gubernamental de precios"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "En la competencia monopolística, ¿qué papel juega la diferenciación de productos?",
+        "options": [
+            "Permite que las empresas se centren en la maximización de la producción",
+            "Facilita la colusión entre las empresas para establecer precios comunes",
+            "Genera competencia en aspectos que no son puramente de precio",
+            "Limita la entrada de nuevos competidores al mercado"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "En la ley de rendimientos decrecientes, ¿qué ocurre a medida que se agregan más unidades de un factor variable, manteniendo fijos los demás factores?",
+        "options": [
+            "El producto marginal disminuye progresivamente",
+            "El costo marginal disminuye indefinidamente",
+            "La productividad total aumenta de manera constante",
+            "El costo fijo promedio aumenta al mismo ritmo"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué es la función de oferta de un bien?",
+        "options": [
+            "La relación entre el costo fijo y el costo variable en la producción",
+            "La relación entre el precio del bien y la cantidad que los productores desean ofrecer",
+            "La relación entre la oferta y demanda en un mercado competitivo",
+            "La función que maximiza el ingreso total de una empresa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué muestra la curva isocuanta en teoría de la producción?",
+        "options": [
+            "El costo total de la producción dado un conjunto de insumos",
+            "Las combinaciones de insumos que producen el mismo nivel de producto",
+            "El costo marginal de producir una unidad adicional de un bien",
+            "La eficiencia de utilizar más trabajo en lugar de capital"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué mide la elasticidad precio cruzada de la demanda?",
+        "options": [
+            "La variación de la cantidad demandada de un bien ante un cambio en el precio de otro bien",
+            "La sensibilidad de la cantidad demandada a un cambio en el precio del propio bien",
+            "El impacto del ingreso del consumidor sobre la demanda de bienes de lujo",
+            "La relación entre el precio y la cantidad ofertada de un bien"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué significa el equilibrio de Nash en la teoría de juegos aplicada a los oligopolios?",
+        "options": [
+            "La situación en la que ninguna empresa puede mejorar su resultado cambiando su estrategia, dado que las demás empresas mantienen sus estrategias",
+            "La colusión entre empresas para maximizar conjuntamente sus beneficios",
+            "El equilibrio de precios donde todas las empresas igualan sus costos marginales",
+            "La optimización de la producción en la cual las empresas no compiten entre sí"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué define un monopolio natural?",
+        "options": [
+            "Una empresa que controla los precios mediante acuerdos con el gobierno",
+            "Una empresa que opera a menor costo que varias empresas en un mercado debido a economías de escala",
+            "Un mercado donde los productos no tienen sustitutos y existe un único oferente",
+            "Una empresa que adquiere recursos naturales a precios más bajos que sus competidores"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué es el producto marginal del trabajo?",
+        "options": [
+            "El costo de contratar a un trabajador adicional",
+            "El aumento en la producción al añadir una unidad adicional de trabajo",
+            "La cantidad total producida por todos los trabajadores",
+            "El valor monetario de la producción total de una empresa"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué describe la curva de oferta de una empresa competitiva?",
+        "options": [
+            "La cantidad total que una empresa está dispuesta a vender a diferentes niveles de precios",
+            "El precio al que la empresa maximiza su beneficio",
+            "El costo marginal de producción a corto plazo",
+            "La capacidad de producción máxima de una empresa"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué es una externalidad negativa?",
+        "options": [
+            "Una reducción en los costos de producción que beneficia a los consumidores",
+            "Un costo que no es asumido por quienes lo generan y afecta a terceros",
+            "Un impuesto que los productores deben pagar por contaminar",
+            "Un beneficio indirecto para la sociedad derivado de la producción"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el propósito de la curva de Lorenz?",
+        "options": [
+            "Representar el crecimiento económico en función de la producción",
+            "Mostrar la distribución de ingresos en una sociedad",
+            "Determinar la elasticidad de la demanda ante variaciones de precio",
+            "Indicar la relación entre el salario y la productividad marginal"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "En términos de eficiencia, ¿qué indica el óptimo de Pareto?",
+        "options": [
+            "La situación donde no es posible mejorar el bienestar de alguien sin empeorar el de otro",
+            "El nivel de producción que maximiza los ingresos de una empresa",
+            "El equilibrio en un mercado donde los precios son determinados por el gobierno",
+            "El punto donde los costos de producción son minimizados"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué representa el coeficiente de Gini?",
+        "options": [
+            "El nivel de desigualdad en la distribución de ingresos en una economía",
+            "La tasa de crecimiento del PIB per cápita",
+            "La elasticidad del consumo ante variaciones de precios",
+            "El impacto de las políticas monetarias en la distribución de la riqueza"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué mide la elasticidad ingreso de la demanda?",
+        "options": [
+            "La sensibilidad de la demanda de un bien ante un cambio en el ingreso del consumidor",
+            "El cambio en el precio de los bienes respecto a las variaciones en los ingresos",
+            "La relación entre la producción y el ingreso de los consumidores",
+            "El impacto del crecimiento económico en la distribución del ingreso"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué sucede en un mercado si el precio está por debajo del precio de equilibrio?",
+        "options": [
+            "Habrá un exceso de oferta",
+            "Los consumidores no podrán acceder a los bienes disponibles",
+            "Se generará un exceso de demanda o escasez de productos",
+            "Los precios tenderán a subir hasta alcanzar el punto de equilibrio"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué ocurre en un mercado de competencia perfecta cuando el precio es igual al costo marginal?",
+        "options": [
+            "La empresa está maximizando su beneficio",
+            "La demanda superará a la oferta",
+            "Los ingresos serán mayores que los costos",
+            "El mercado se encuentra en desequilibrio"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué indica la tasa marginal de sustitución técnica?",
+        "options": [
+            "El nivel de eficiencia de los insumos en la producción",
+            "La cantidad de un insumo que puede reemplazar a otro sin afectar la producción total",
+            "El costo marginal de un bien en un mercado competitivo",
+            "El precio relativo de dos bienes en un mercado"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué determina el desplazamiento de la curva de oferta?",
+        "options": [
+            "Los precios de los insumos y los avances tecnológicos",
+            "El precio de equilibrio y la demanda de los consumidores",
+            "La cantidad de bienes producidos a largo plazo",
+            "El costo marginal y los impuestos sobre la producción"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué mide el valor producto marginal del trabajo?",
+        "options": [
+            "El costo total de la mano de obra en la producción",
+            "El ingreso adicional que genera una unidad adicional de trabajo",
+            "El número total de trabajadores necesarios para maximizar el beneficio",
+            "La productividad media del trabajo en un mercado competitivo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué ocurre si una empresa en monopolio cobra un precio mayor al costo marginal?",
+        "options": [
+            "El monopolio maximizará el bienestar social",
+            "La empresa obtendrá ganancias a costa de una menor cantidad producida",
+            "El ingreso marginal será mayor que los costos fijos",
+            "La producción se igualará a la de un mercado competitivo"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué determina el ingreso marginal de una empresa competitiva?",
+        "options": [
+            "El costo variable de la producción",
+            "El precio al cual la empresa vende el bien",
+            "El costo marginal de producir una unidad adicional",
+            "El punto donde el precio y la demanda son iguales"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "¿Cómo afecta la introducción de un salario mínimo a un mercado laboral competitivo?",
+        "options": [
+            "Genera un exceso de oferta de mano de obra y aumenta el desempleo",
+            "Reduce el nivel de producción al aumentar los costos fijos",
+            "Aumenta la demanda de trabajo al incentivar el consumo",
+            "Elimina la competencia entre las empresas por contratar más trabajadores"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué determina el nivel de producción en una empresa de competencia perfecta?",
+        "options": [
+            "El costo fijo promedio y el costo marginal",
+            "El nivel donde el ingreso marginal iguala al costo marginal",
+            "El punto donde los costos totales son mínimos",
+            "El precio de mercado y el costo promedio de producción"
+        ],
+        "answer": 1
+    }
+]
